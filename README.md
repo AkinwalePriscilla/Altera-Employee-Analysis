@@ -1,6 +1,7 @@
 ## Altera-Employee-Dashboard Analysis
 
-<img width="880" height="493" alt="Screenshot 2025-08-08 151115" src="https://github.com/user-attachments/assets/621a2949-5033-4962-ba1b-b23943afcf35" />
+<img width="762" height="428" alt="Screenshot 2025-08-09 010311" src="https://github.com/user-attachments/assets/f32fb5ac-64e2-4837-ae7f-e158f699a5c5" />
+
 
 
 ## 📊 Key Features
